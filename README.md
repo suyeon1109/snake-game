@@ -3,7 +3,7 @@
 </p>
 
 # Introduction
-In snake-game, 
+In snake-game, you can move your snake using direction keys to eat food and grow your snake. 
 
 # 🔥 HOW TO PLAY
 <img src = "https://upload.wikimedia.org/wikipedia/commons/8/8c/Arrow_keys.jpg?raw=true">
