@@ -7,9 +7,9 @@ In snake-game, you can move your snake using direction keys to eat food and grow
 
 # 🔥 HOW TO PLAY
 <img src = "https://upload.wikimedia.org/wikipedia/commons/8/8c/Arrow_keys.jpg?raw=true">
-Use direction keys to move the snake.
-Eat food to grow your snake.
-The snake dies when it hits the window frame or its body.
+Use direction keys to move the snake. <br/>
+Eat food to grow your snake.  <br/>
+The snake dies when it hits the window frame or its body.  <br/>
 
 
 # Gameplay example
